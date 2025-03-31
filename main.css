@@ -26,7 +26,8 @@ div#header {
 	width: 100vw;
 	height: 8vh;
 	/* padding-bottom: 8px; */
-	background: #882b8e;
+        /* background: #882b8e; */
+	background: #90EE90;
 	z-index: 1;
 	position: fixed;
 	display:inline-block;
