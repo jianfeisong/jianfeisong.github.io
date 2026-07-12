@@ -766,15 +766,3 @@ div#member p{
     max-width: 100%;
   }
 }
-
-.education-note {
-  font-size: 0.9em;
-  font-style: italic;
-  color: #555;
-  padding-top: 0;
-  padding-bottom: 12px;
-}
-
-.note-row td {
-  border: none;
-}
